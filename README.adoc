@@ -1,3 +1,5 @@
+Fork of robfletcher/gradle-compass
+
 = Gradle Compass plugin
 
 A http://sass-lang.com/[SASS] / http://compass-style.org/[Compass] plugin for http://gradle.org/[Gradle]. The plugin uses JRuby to install and run Compass.
